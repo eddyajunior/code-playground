@@ -33,3 +33,4 @@ F:\github\code-playground\src\ToDo.API\obj\Debug\net8.0\refint\ToDo.API.dll
 F:\github\code-playground\src\ToDo.API\obj\Debug\net8.0\ToDo.API.pdb
 F:\github\code-playground\src\ToDo.API\obj\Debug\net8.0\ToDo.API.genruntimeconfig.cache
 F:\github\code-playground\src\ToDo.API\obj\Debug\net8.0\ref\ToDo.API.dll
+F:\github\code-playground\src\ToDo.API\obj\Debug\net8.0\ToDo.API.sourcelink.json
