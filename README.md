@@ -12,9 +12,11 @@
     ```bash
     git clone https://github.com/yourusername/code-playground.git
     ```
-2. **Navegar nas Pastas do Projeto:**
+2. **Navegar nas Pastas dos Projetos:**
+
+    TO DO API
     ```bash
-    cd code-playground
+    cd code-playground\src\ToDo.API
     ```
 3. **Compilar o projeto:**
     ```bash

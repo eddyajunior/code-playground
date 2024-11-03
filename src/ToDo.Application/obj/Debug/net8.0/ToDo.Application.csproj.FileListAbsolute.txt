@@ -10,3 +10,4 @@ F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application
 F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\refint\ToDo.Application.dll
 F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.pdb
 F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ref\ToDo.Application.dll
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.sourcelink.json
