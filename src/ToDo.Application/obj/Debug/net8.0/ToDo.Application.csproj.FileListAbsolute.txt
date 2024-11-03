@@ -1,0 +1,12 @@
+F:\github\code-playground\src\ToDo.Application\bin\Debug\net8.0\ToDo.Application.deps.json
+F:\github\code-playground\src\ToDo.Application\bin\Debug\net8.0\ToDo.Application.dll
+F:\github\code-playground\src\ToDo.Application\bin\Debug\net8.0\ToDo.Application.pdb
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.csproj.AssemblyReference.cache
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.AssemblyInfoInputs.cache
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.AssemblyInfo.cs
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.csproj.CoreCompileInputs.cache
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.dll
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\refint\ToDo.Application.dll
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.pdb
+F:\github\code-playground\src\ToDo.Application\obj\Debug\net8.0\ref\ToDo.Application.dll

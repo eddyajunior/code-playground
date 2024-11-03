@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\github\\code-playground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060F614D-CB91-483E-8673-859E70364804}|src\\ToDo.API\\ToDo.API.csproj|f:\\github\\code-playground\\src\\todo.api\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060F614D-CB91-483E-8673-859E70364804}|src\\ToDo.API\\ToDo.API.csproj|solutionrelative:src\\todo.api\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|f:\\github\\code-playground\\src\\todo.application\\maps\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|solutionrelative:src\\todo.application\\maps\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|f:\\github\\code-playground\\src\\todo.application\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|solutionrelative:src\\todo.application\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060F614D-CB91-483E-8673-859E70364804}|src\\ToDo.API\\ToDo.API.csproj|f:\\github\\code-playground\\src\\todo.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060F614D-CB91-483E-8673-859E70364804}|src\\ToDo.API\\ToDo.API.csproj|solutionrelative:src\\todo.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|f:\\github\\code-playground\\src\\todo.application\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|solutionrelative:src\\todo.application\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060F614D-CB91-483E-8673-859E70364804}|src\\ToDo.API\\ToDo.API.csproj|f:\\github\\code-playground\\src\\todo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060F614D-CB91-483E-8673-859E70364804}|src\\ToDo.API\\ToDo.API.csproj|solutionrelative:src\\todo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|f:\\github\\code-playground\\src\\todo.application\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|solutionrelative:src\\todo.application\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|f:\\github\\code-playground\\src\\todo.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EC4C4A-9C51-49F2-AB50-E0BBAA48FD23}|src\\ToDo.Application\\ToDo.Application.csproj|solutionrelative:src\\todo.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\github\\code-playground\\src\\ToDo.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "src\\ToDo.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\github\\code-playground\\src\\ToDo.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "src\\ToDo.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:19:37.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDosController.cs",
+              "DocumentMoniker": "F:\\github\\code-playground\\src\\ToDo.API\\Controllers\\ToDosController.cs",
+              "RelativeDocumentMoniker": "src\\ToDo.API\\Controllers\\ToDosController.cs",
+              "ToolTip": "F:\\github\\code-playground\\src\\ToDo.API\\Controllers\\ToDosController.cs",
+              "RelativeToolTip": "src\\ToDo.API\\Controllers\\ToDosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:19:34.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DI.cs",
+              "DocumentMoniker": "F:\\github\\code-playground\\src\\ToDo.Application\\DI.cs",
+              "RelativeDocumentMoniker": "src\\ToDo.Application\\DI.cs",
+              "ToolTip": "F:\\github\\code-playground\\src\\ToDo.Application\\DI.cs",
+              "RelativeToolTip": "src\\ToDo.Application\\DI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:12:32.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\github\\code-playground\\src\\ToDo.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ToDo.API\\Program.cs",
+              "ToolTip": "F:\\github\\code-playground\\src\\ToDo.API\\Program.cs",
+              "RelativeToolTip": "src\\ToDo.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:07:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoProfile.cs",
+              "DocumentMoniker": "F:\\github\\code-playground\\src\\ToDo.Application\\Maps\\ToDoProfile.cs",
+              "RelativeDocumentMoniker": "src\\ToDo.Application\\Maps\\ToDoProfile.cs",
+              "ToolTip": "F:\\github\\code-playground\\src\\ToDo.Application\\Maps\\ToDoProfile.cs",
+              "RelativeToolTip": "src\\ToDo.Application\\Maps\\ToDoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:57:10.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "F:\\github\\code-playground\\src\\ToDo.Application\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "src\\ToDo.Application\\Models\\ToDo.cs",
+              "ToolTip": "F:\\github\\code-playground\\src\\ToDo.Application\\Models\\ToDo.cs",
+              "RelativeToolTip": "src\\ToDo.Application\\Models\\ToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:52:33.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoDto.cs",
+              "DocumentMoniker": "F:\\github\\code-playground\\src\\ToDo.Application\\DTOs\\ToDoDto.cs",
+              "RelativeDocumentMoniker": "src\\ToDo.Application\\DTOs\\ToDoDto.cs",
+              "ToolTip": "F:\\github\\code-playground\\src\\ToDo.Application\\DTOs\\ToDoDto.cs",
+              "RelativeToolTip": "src\\ToDo.Application\\DTOs\\ToDoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:52:24.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\github\\code-playground\\src\\ToDo.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\ToDo.Application\\Class1.cs",
+              "ToolTip": "F:\\github\\code-playground\\src\\ToDo.Application\\Class1.cs",
+              "RelativeToolTip": "src\\ToDo.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:41:59.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
